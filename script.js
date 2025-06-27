@@ -1,5 +1,5 @@
 function fetchData() {
-    fetch('')
+    fetch('https://fakestoreapi.com/products')
     .then(response => response.json())
     .then(productData => {
         const productList = document.getElementById('product-list');
