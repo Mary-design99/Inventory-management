@@ -1,4 +1,4 @@
-# Business-management-system# Business-management-system
+# Inventory-management
 **Restock alert site**
 item 1:
 The restoke alert site is an application that enables users track low stock levels and restock them.This project 
